@@ -11,3 +11,7 @@
     background-repeat: no-repeat;
     height: 110vh;
 }
+
+.custom-size{
+    font-size: 1px;
+}
